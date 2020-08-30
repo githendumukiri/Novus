@@ -1,5 +1,7 @@
 # Novus
 MySQL Database
+
+
 Technology company with a business model derived from Apple and Amazon
 Manufactures devices 
 -Phones
